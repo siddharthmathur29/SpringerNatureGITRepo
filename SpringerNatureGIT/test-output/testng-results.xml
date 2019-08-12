@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="30920" started-at="2019-08-12T13:21:52Z" finished-at="2019-08-12T13:22:23Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="30920" started-at="2019-08-12T13:21:52Z" finished-at="2019-08-12T13:22:23Z">
+      <class name="com.springernature.testcases.LoginToSpringer">
+        <test-method status="PASS" signature="Setup()[pri:0, instance:com.springernature.testcases.LoginToSpringer@2a18f23c]" name="Setup" is-config="true" duration-ms="9737" started-at="2019-08-12T18:51:52Z" finished-at="2019-08-12T18:52:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="LoginApp()[pri:0, instance:com.springernature.testcases.LoginToSpringer@2a18f23c]" name="LoginApp" duration-ms="20400" started-at="2019-08-12T18:52:01Z" finished-at="2019-08-12T18:52:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginApp -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.springernature.testcases.LoginToSpringer@2a18f23c]" name="TearDown" is-config="true" duration-ms="760" started-at="2019-08-12T18:52:22Z" finished-at="2019-08-12T18:52:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- com.springernature.testcases.LoginToSpringer -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
